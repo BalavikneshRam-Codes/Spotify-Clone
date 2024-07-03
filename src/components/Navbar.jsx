@@ -13,7 +13,7 @@ function Navbar() {
       </div>
       <div className="flex items-center gap-4 ">
         <p className='bg-white text-black text-[15px] px-4 py-1 rounded-2xl hidden md:block cursor-pointer'>Explore Premium</p>
-        <a href=""></a><p className='bg-black py-2 px-3 rounded-2xl text-[15px] cursor-pointer'>install App</p>
+        <a href="https://github.com/BalavikneshRam-Codes/Spotify-Clone" target='_blank'><p className='bg-black py-2 px-3 rounded-2xl text-[15px] cursor-pointer'>install App</p></a>
         <a href="https://www.linkedin.com/in/balaviknesh-ram/" target='_blank'><p className='bg-purple-500 text-black w-7 h-7 rounded-full flex items-center justify-center cursor-pointer'>B</p></a>
       </div>
 

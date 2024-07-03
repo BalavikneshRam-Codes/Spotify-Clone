@@ -49,11 +49,17 @@ import song8 from './song8.mp3'
 import song9 from './song9.mp3'
 import song10 from './song10.mp3'
 import song11 from './song11.mp3'
+import song12 from './song12.mp3'
+import song13 from './song13.mp3'
+import song14 from './song14.mp3'
 
 import img81 from './img81.jpeg'
 import img91 from './img91.jpeg'
 import img101 from './img101.jpeg'
 import img111 from './img111.jpeg'
+import img121 from './img121.jpeg'
+import img131 from './img131.jpeg'
+import img141 from './img141.jpeg'
 
 
 
@@ -217,5 +223,29 @@ export const songsData = [
         file:song11,
         desc:"Lana Del Rey",
         duration:"4:25"
+    },
+    {
+        id:11,
+        name: "Dancing with Ghost",
+        image: img121,
+        file:song12,
+        desc:"Sasha Alex Sloan",
+        duration:"3:19"
+    },
+    {
+        id:12,
+        name: "In the Stars",
+        image: img131,
+        file:song13,
+        desc:"Benson Boone",
+        duration:"3:36"
+    },
+    {
+        id:13,
+        name: "Perfect",
+        image: img141,
+        file:song14,
+        desc:"Camila Cabello,Nicholas Galitzine",
+        duration:"3:09"
     }
 ]
